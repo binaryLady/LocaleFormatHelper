@@ -1,0 +1,6 @@
+LocaleFormatHelper is a helper for Salesforce Locale date formatting. Get the locale from the user profile and pass that value to the formatHelper:
+Requires Moment.JS
+
+usage ==>
+
+var dFormat = format(locale);
